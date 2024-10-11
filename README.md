@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manu-Deva)](https://github.com/Manu-Deva/github-readme-stats)
+
 <!--
 **Manu-Deva/Manu-Deva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
